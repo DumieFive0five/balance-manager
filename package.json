@@ -73,7 +73,7 @@
     "eslint-plugin-react": "^7.7.0",
     "husky": "^0.14.3",
     "lint-staged": "^7.1.0",
-    "prettier": "^1.13.5"
+    "prettier": "^2.0.2"
   },
   "browserslist": [
     ">0.2%",

@@ -17,7 +17,7 @@
     "@devshack/react-native-storage": "^0.2.2",
     "@ledgerhq/hw-app-eth": "^4.7.3",
     "@ledgerhq/hw-transport-u2f": "^4.7.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "balance-common": "^0.6.1",
     "bignumber.js": "^7.0.1",
     "bowser": "^2.0.0-alpha.4",
